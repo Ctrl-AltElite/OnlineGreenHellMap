@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/OGHM.dir/src/main.c.o -o OGHM  /usr/lib/x86_64-linux-gnu/libcurl.so 

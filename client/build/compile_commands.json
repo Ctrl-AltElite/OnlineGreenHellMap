@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/stefan/Work/C_CPP/OnlineGreenHellMap/build",
+  "command": "clang++    -o CMakeFiles/OGHM.dir/src/main.o -c /home/stefan/Work/C_CPP/OnlineGreenHellMap/src/main.cpp",
+  "file": "/home/stefan/Work/C_CPP/OnlineGreenHellMap/src/main.cpp"
+}
+]
